@@ -1,0 +1,9 @@
+development:
+  adapter: sqlite3
+  database: aa_knock_issue_dev
+  host: localhost
+
+test:
+  adapter: sqlite3
+  database: aa_knock_issue_test
+  host: localhost
